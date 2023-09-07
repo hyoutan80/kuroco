@@ -1,0 +1,11 @@
+{
+    "rewrites": [
+        {
+          "source": ".*",
+          "destination": "/index.html"
+        }
+      ],
+    "redirects": [],
+    "basic":[202.221.224.61],
+    "ip_restrictions":[]
+}
